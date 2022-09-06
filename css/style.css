@@ -1,0 +1,18 @@
+.left{
+    float: left;
+    width: 60%;
+    clear: both;
+    
+}
+.right{
+    float: right;
+    width: 60%;
+    clear: both;
+    
+}
+.button{
+    margin-left: 5px;
+}
+.join{
+    clear: both;
+}
