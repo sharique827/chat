@@ -108,7 +108,7 @@ function sendMessage(){
     const msg=document.getElementById("msg")
     const wrong=document.getElementById("wrongmessage")
     if(msg.value==""){
-       wrong.style.display="block"
+       wrong.style.display="block",
        wrong.innerHTML="Please Write Something..." 
        wrong.classList.add("text-danger")
        wrong.classList.add("text-center")
